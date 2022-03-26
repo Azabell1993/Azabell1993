@@ -21,7 +21,7 @@
 ### C언어 대표 저장소  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample.git)  
 
-### C언어 초보자 대상 강의용 레포  
+### C언어 완전 입문자 대상 강의용 레포  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Clang_lecture)](https://github.com/Azabell1993/Clang_lecture.git)  
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보 ✨                            
