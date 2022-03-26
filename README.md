@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Azabell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical)  
+
 ### ✨ 방문자 수 ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                      
 ### ✨ 기본 정보 ✨                            
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  
 
 
-![Azabell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical)  
+
