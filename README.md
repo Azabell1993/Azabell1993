@@ -15,7 +15,8 @@
 ![Azabell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical)  
 
 ### 😄✨ 방문자 수 ✨  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                      
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)
+
 ### 💬✨ 이 깃허브의 언어 사용량 정보 ✨                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993)](https://github.com/Azabell1993)  
 
