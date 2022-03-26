@@ -14,4 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![c](https://user-images.githubusercontent.com/75885992/160231152-3c0029f7-2662-4566-8c54-dbcc31b21b01.svg)
+
+🌹 t e c h 🌹
+JS html css Svelte
+
+React,React Native NodeJS MongoDB
+
+Java Spring
+
+MySQL MS SQL Oracle DB
+
+
+
+💫 m e
+Tech Blog Code Pen Gmail
+
+
+
+💌 t o d a y
+Hits
+
+
