@@ -22,6 +22,8 @@
 ### C언어 대표 저장소
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/ClangStructPointerExample.git)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=github-readme-stats)](https://github.com/Azabell1993/ClangStructPointerExample.git)    
+
 ### C언어 초보자 대상 강의용 레포
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/Clang_lecture.git)](https://github.com/anuraghazra/github-readme-stats)
 
