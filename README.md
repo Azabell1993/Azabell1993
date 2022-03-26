@@ -14,6 +14,17 @@
 
 ![Azabell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical)  
 
+### C언어 대표 저장소
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/ClangStructPointerExample.git)](https://github.com/anuraghazra/github-readme-stats)
+
+### C언어 초보자 대상 강의용 레포
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/Clang_lecture.git)](https://github.com/anuraghazra/github-readme-stats)
+
+### C언어 초보자 대상 깃 레포
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Azabell1993/KoreaChamberofCommerceAndIndustry.git
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 😄✨ 방문자 수 ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)
 
