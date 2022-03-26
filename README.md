@@ -19,17 +19,14 @@
 
 [Azabell Blog](https://blog.naver.com/moreirly)  
 
-### C언어 대표 저장소
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/ClangStructPointerExample.git)](https://github.com/anuraghazra/github-readme-stats)
-
+### C언어 대표 저장소  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample.git)  
 
-### C언어 초보자 대상 강의용 레포
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/Clang_lecture.git)](https://github.com/anuraghazra/github-readme-stats)
+### C언어 초보자 대상 강의용 레포  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Clang_lecture)](https://github.com/Azabell1993/Clang_lecture.git)  
 
-### C언어 초보자 대상 깃 레포
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Azabell1993/KoreaChamberofCommerceAndIndustry.git
-)](https://github.com/anuraghazra/github-readme-stats)
+### C언어 초보자 대상 깃 레포  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=KoreaChamberofCommerceAndIndustry)](https://github.com/Azabell1993/KoreaChamberofCommerceAndIndustry.git)  
 
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보 ✨                            
