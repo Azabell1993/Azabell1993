@@ -15,11 +15,11 @@
 ### 😄✨ HIT COUNTER ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
 
-<img src="https://img.shields.io/badge/#0067a3?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
-
-<a href="https://blog.naver.com/moreirly"><img src="https://img.shields.io/badge/#0067a3?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/moreirly"/></a>&nbsp  
 
 ![Azabell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical)  
+
+<a href="https://blog.naver.com/moreirly"><img src="https://img.shields.io/badge/#5F9EA0?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/moreirly"/></a>&nbsp
+
 
 ### C언어 대표 저장소
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=https://github.com/Azabell1993/ClangStructPointerExample.git)](https://github.com/anuraghazra/github-readme-stats)
