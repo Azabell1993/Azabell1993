@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Azabell Github &fontSize=90)  
 
 ### Hi there 👋 My name is AZABELL!  
 방문해주셔서 감사합니다.  
@@ -24,8 +24,6 @@
 
 ### C언어 초보자 대상 강의용 레포  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Clang_lecture)](https://github.com/Azabell1993/Clang_lecture.git)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&exclude_repo=github-readme-stats,Azabell1993.github.io)](https://github.com/Azabell1993)
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보 ✨                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993)](https://github.com/Azabell1993)  
