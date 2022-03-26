@@ -25,9 +25,7 @@
 ### C언어 초보자 대상 강의용 레포  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Clang_lecture)](https://github.com/Azabell1993/Clang_lecture.git)  
 
-### C언어 초보자 대상 깃 레포  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=KoreaChamberofCommerceAndIndustry)](https://github.com/Azabell1993/KoreaChamberofCommerceAndIndustry.git)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&exclude_repo=github-readme-stats,Azabell1993.github.io)](https://github.com/Azabell1993)
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보 ✨                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993)](https://github.com/Azabell1993)  
