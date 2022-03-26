@@ -14,7 +14,8 @@
 
 ### 😄✨ HIT COUNTER ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
-https://github.com/Azabell1993/hit-counter   
+
+<img src="https://img.shields.io/badge/#0067a3?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
 
 <a href="https://blog.naver.com/moreirly"><img src="https://img.shields.io/badge/#0067a3?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/moreirly"/></a>&nbsp  
 
