@@ -23,7 +23,7 @@ This is Azabel's GitHub.
 💬 관심있는 분야 : Low System, Network, BlockChain  
 ##  
 🌱 Position: Backend  
-👯 Favorite language: C lang  
+👯 best language: C lang  
 😄 Available languages: JAVA  
 💬 Interests: Low System, Network, Blockchain  
 ##   
