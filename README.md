@@ -19,13 +19,11 @@ This is Azabell's GitHub.
 ## 
 🌱 포지션 : 백엔드  
 👯 가장 잘하는 대표언어 : C언어  
-😄 사용할 수도 있는 언어 : JAVA  
-💬 관심있는 분야 :    
+😄 사용할 수도 있는 언어 : JAVA      
 ##  
 🌱 Position: Backend  
 👯 best language: C lang  
-😄 Available languages: JAVA  
-💬 Interests:    
+😄 Available languages: JAVA      
 ##   
 
 
