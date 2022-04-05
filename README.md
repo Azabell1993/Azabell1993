@@ -13,7 +13,19 @@ This is Azabel's GitHub.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+### 🌱 포지션 : 백엔드  
+### 👯 가장 잘하는 대표언어 : C언어  
+### 😄 사용할 수도 있는 언어 : JAVA  
+### 💬 관심있는 분야 : Low System, Network, BlockChain  
+
+### 🌱 Position: Backend  
+### 👯 Favorite language: C lang  
+### 😄 Available languages: JAVA  
+### 💬 Interests: Low System, Network, Blockchain  
+
 
 ### 😄✨ HIT COUNTER ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
