@@ -21,7 +21,7 @@ This is Azabell's GitHub.
 👯 대표언어 : C언어  
 😄 사용할 수도 있는 언어 : JAVA      
 ##  
-🌱 Position: Backend  
+🌱 Position: System    
 👯 best language: C lang  
 😄 Available languages: JAVA      
 ##   
