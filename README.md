@@ -33,9 +33,8 @@ This is Azabell's GitHub.
 
 
 ### C언어 모나드(C language-Monad)  
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample.git](https://github.com/Azabell1993/C_Monad)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=C_Monad)](https://github.com/Azabell1993/C_Monad.git)  
   
-
 ### C언어 대표 저장소(C language representative repository)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample.git)  
 
