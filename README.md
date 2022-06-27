@@ -5,6 +5,7 @@
 Thank you for visiting.
 This is Azabell's GitHub.
 
+GitHub Readme Stats: github-readme-stats.vercel.app/api?username={Azabell1993}&show_icons=true
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
