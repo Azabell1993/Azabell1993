@@ -19,31 +19,6 @@ This is Azabell's GitHub
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true) 
 
 
-## 
-🌱 포지션 : System  
-👯 대표언어 : C언어  
-😄 사용할 수도 있는 언어 : JAVA      
-##  
-🌱 Position: System    
-👯 best language: C lang  
-😄 Available languages: JAVA      
-##   
-
-### 😄✨ HIT COUNTER ✨  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
-
-[Azabell Blog](https://blog.naver.com/moreirly)  
-
-
-### C언어 모나드(C language-Monad)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=C_Monad)](https://github.com/Azabell1993/C_Monad.git)  
-  
-### C언어 대표 저장소(C language representative repository)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample.git)  
-
-### C언어 완전 입문자 대상 강의용 레포(Repo for lectures for complete beginners in C language)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Clang_lecture)](https://github.com/Azabell1993/Clang_lecture.git)  
-
 ### 💬✨ 이 깃허브의 언어 사용량 정보(Language usage information on this github) ✨                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993)](https://github.com/Azabell1993)  
 
@@ -55,4 +30,8 @@ This is Azabell's GitHub
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  
 
 
+### 😄✨ HIT COUNTER ✨  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
+
+[Azabell Blog](https://blog.naver.com/moreirly)   
 
