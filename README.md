@@ -15,8 +15,8 @@ This is Azabell's GitHub
 - ⚡ Fun fact: ...
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Azabell1993)](https://github.com/ryo-ma/github-profile-trophy). 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true). 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Azabell1993)](https://github.com/ryo-ma/github-profile-trophy) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true) 
 
 
 ## 
