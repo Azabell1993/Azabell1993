@@ -3,9 +3,7 @@
 방문해주셔서 감사합니다.  
 아자벨의 깃허브입니다.  
 Thank you for visiting.
-This is Azabell's GitHub.
-
-github-readme-stats.vercel.app/api?username={Azabell1993}&show_icons=true
+This is Azabell's GitHub
 
 <!--
 - 🌱 I’m currently learning ...
