@@ -35,3 +35,5 @@ This is Azabell's GitHub
 
 [Azabell Blog](https://blog.naver.com/moreirly)   
 
+https://github.com/Azabell1993/ClangStructPointerExample
+
