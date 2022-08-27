@@ -27,10 +27,10 @@ This is Azabell's GitHub
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true) 
 
 ### 백준티어
-2022.08.27일 시작
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Azabell1993)](https://solved.ac/Azabell1993/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보(Language usage information on this github) ✨                            
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azabell1993&layout=compact&theme=tokyonight)  
