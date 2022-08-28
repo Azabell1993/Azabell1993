@@ -28,7 +28,7 @@ This is Azabell's GitHub
 
 ### 백준티어
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Azabell1993)](https://solved.ac/Azabell1993/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azabell1993)](https://solved.ac/azabell1993/)
 
 
 
