@@ -26,11 +26,6 @@ This is Azabell's GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azabell1993)](https://github.com/ryo-ma/github-profile-trophy) 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true) 
 
-### 백준티어
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azabell1993)](https://solved.ac/azabell1993/)
-
-
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보(Language usage information on this github) ✨                            
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azabell1993&layout=compact&theme=tokyonight)  
