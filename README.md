@@ -5,7 +5,8 @@
 Thank you for visiting.
 This is Azabell's GitHub
 
-[Azabell Blog](https://blog.naver.com/moreirly)   
+[Azabell NAVER Blog](https://blog.naver.com/moreirly)   
+[Azabell WEBSITE Blog](https://www.azabellcode.com)   
 
 [C언어 초보자용 코스 레포](https://github.com/Azabell1993/ClangStructPointerExample)
 > C언어를 절차지향 사고에서 벗어나 객체지향 사고형으로 단련시켜주는 기본 소스코드 예제입니다.
