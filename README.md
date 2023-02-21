@@ -9,7 +9,11 @@ This is Azabell's GitHub
 [Azabell WEBSITE Blog](https://www.azabellcode.com)   
 
 [C언어 초보자용 코스 레포](https://github.com/Azabell1993/ClangStructPointerExample)  
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/Azabell1993/ClangStructPointerExample))]((https://github.com/Azabell1993/ClangStructPointerExample))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)
+
+
+
 > C언어를 절차지향 사고에서 벗어나 객체지향 사고형으로 단련시켜주는 기본 소스코드 예제입니다.
 > 모든 예제 소스들은 Azabell1993이 직접 만들었습니다.
   
