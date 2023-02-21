@@ -8,7 +8,7 @@ This is Azabell's GitHub
 [Azabell NAVER Blog](https://blog.naver.com/moreirly)   
 [Azabell WEBSITE Blog](https://www.azabellcode.com)   
 
-[C언어 초보자용 코스 레포]
+[C언어 초보자용 코스 레포]  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)  
 
 
