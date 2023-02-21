@@ -8,7 +8,8 @@ This is Azabell's GitHub
 [Azabell NAVER Blog](https://blog.naver.com/moreirly)   
 [Azabell WEBSITE Blog](https://www.azabellcode.com)   
 
-[C언어 초보자용 코스 레포](https://github.com/Azabell1993/ClangStructPointerExample)
+[C언어 초보자용 코스 레포](https://github.com/Azabell1993/ClangStructPointerExample)  
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/Azabell1993/ClangStructPointerExample))]((https://github.com/Azabell1993/ClangStructPointerExample))
 > C언어를 절차지향 사고에서 벗어나 객체지향 사고형으로 단련시켜주는 기본 소스코드 예제입니다.
 > 모든 예제 소스들은 Azabell1993이 직접 만들었습니다.
   
@@ -39,6 +40,7 @@ This is Azabell's GitHub
 ### 🤔✨사용하는 OS 환경(OS environment you are using) ✨  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azabell1993&show_icons=true&bg_color=00000000)  
 
 ### 😄✨ HIT COUNTER ✨  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Azabell1993/hit-counter)](https://hits.seeyoufarm.com)  
