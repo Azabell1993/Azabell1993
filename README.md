@@ -33,7 +33,7 @@ This is Azabell's GitHub
 
 
 ### 💬✨ 이 깃허브의 언어 사용량 정보(Language usage information on this github) ✨                            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azabell1993&hide_progress=true)](https://github.com/azabell1993/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azabell1993&hide_progress=true)](https://github.com/azabell1993)  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azabell1993&langs_count=8)](https://github.com/azabell1993/github-readme-stats)
 ### 🔭✨ Programming Langague Skills ✨  
