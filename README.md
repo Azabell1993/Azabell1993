@@ -1,26 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?text=Azabell%Github&fontSize=50)  
+  
+-----   
+### Hi there 👋 My name is AZABELL!  
+Thank you for visiting.  
+This is Azabell's GitHub.  
+  
+[Azabell NAVER Blog](https://blog.naver.com/azabell)    
 
------  
-### Hi there 👋 My name is AZABELL!
-Thank you for visiting.
-This is Azabell's GitHub.
-
-[Azabell NAVER Blog](https://blog.naver.com/azabell)  
-
-[C Language Beginner's Course Repo]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)  
-
-Readme Card
-These are basic source code examples designed to train you to think in an object-oriented manner rather than a procedural manner using the C language. All example sources were created by Azabell1993.
-
+[C Language Beginner's Course Repo]  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)   
+    
+### These are basic source code examples designed to train you to think in an object-oriented manner rather than a procedural manner using the C language.  
+### All example sources were created by Azabell1993.  
 -----  
 
 
 ### Hi there 👋 My name is AZABELL! 
 방문해주셔서 감사합니다.  
 아자벨의 깃허브입니다.  
-Thank you for visiting.
-This is Azabell's GitHub
 
 [Azabell NAVER Blog](https://blog.naver.com/azabell)  
 
