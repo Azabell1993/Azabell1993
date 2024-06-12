@@ -7,6 +7,11 @@ This is Azabell's GitHub.
   
 [Azabell NAVER Blog](https://blog.naver.com/azabell)    
 
+### This code repository is a collection of advanced design patterns in C language that mimics lambda and advanced styles.  
+### All example sources were created by Azabell1993.  
+[C Language Advanced Course Repo]  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=functional_clang_2024)](https://github.com/Azabell1993/functional_clang_2024)   
+
 [C Language Beginner's Course Repo]  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)   
     
