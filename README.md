@@ -17,23 +17,6 @@ This is Azabell's GitHub.
     
 ### These are basic source code examples designed to train you to think in an object-oriented manner rather than a procedural manner using the C language.  
 ### All example sources were created by Azabell1993.  
------  
-
-
-### Hi there 👋 My name is AZABELL! 
-방문해주셔서 감사합니다.  
-아자벨의 깃허브입니다.  
-
-[Azabell NAVER Blog](https://blog.naver.com/azabell)  
-
-[C언어 초보자용 코스 레포]  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)  
-
-
-
-> C언어를 절차지향 사고에서 벗어나 객체지향 사고형으로 단련시켜주는 기본 소스코드 예제입니다.
-> 모든 예제 소스들은 Azabell1993이 직접 만들었습니다.
-  
   
 #
 <!--
