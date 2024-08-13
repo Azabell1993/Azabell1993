@@ -23,7 +23,7 @@ Welcome to my main open-source project repository! This repository features the 
 ### All example sources were created by Azabell1993.  
 
 **[C Language Advanced Course Repo]**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=functional_clang_2024)](https://github.com/Azabell1993/functional_clang_2024)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=functional_clang)](https://github.com/Azabell1993/functional_clang)   
 
 **[C Language Beginner's Course Repo]**  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)   
