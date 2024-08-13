@@ -15,9 +15,9 @@ Welcome to my main open-source project repository! This repository features the 
 ### Supported Languages and Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 **[WAMR Project]**  
-[![Readme Card]((https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=wp-wamr)](https://github.com/Azabell1993/wp-wamr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=wp-wamr)](https://github.com/Azabell1993/wp-wamr)
+
 
 ### This code repository is a collection of advanced design patterns in C language that mimics lambda and advanced styles.  
 ### All example sources were created by Azabell1993.  
