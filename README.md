@@ -27,7 +27,7 @@ We are also working on extending support for multiple languages like C, C++, C#,
 **[WAMR Project]**  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=wp-wamr)](https://github.com/Azabell1993/wp-wamr)
 
-
+-----   
 ### This code repository is a collection of advanced design patterns in C language that mimics lambda and advanced styles.  
 ### All example sources were created by Azabell1993.  
 
