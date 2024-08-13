@@ -8,9 +8,18 @@ This is Azabell's GitHub.
 [Azabell NAVER Blog](https://blog.naver.com/azabell)    
 
 ### This repository is my main project (open-source)  
-Welcome to my main open-source project repository! This repository features the WebAssembly Micro Runtime (WAMR) for WordPress, inspired by BusyBox. The project is a collaboration with @gnh1201, the main contributor and architect behind the integration of WAMR with WordPress. We aim to integrate WAMR into WordPress, allowing you to upload and execute WebAssembly binaries via the WordPress Media Library. We are also working on extending support for multiple languages like C, C++, C#, Python, Go, and Rust. Join us as we develop this powerful tool for web developers!  
+Welcome to my main open-source project repository!  
+This repository features the WebAssembly Micro Runtime (WAMR) for WordPress, inspired by BusyBox.  
+The project is a collaboration with @gnh1201, the main contributor and architect behind the integration of WAMR with WordPress.  
   
-이 깃허브 저장소는 저의 주요 오픈 소스 프로젝트입니다! 이 저장소는 BusyBox에서 영감을 받은 워드프레스용 WebAssembly Micro Runtime(WAMR)을 특징으로 합니다. 이 프로젝트는 WAMR과 워드프레스의 통합을 주도하는 주요 기여자이자 설계자인 @gnh1201 과 함께 진행되고 있습니다. 이 프로젝트는 WAMR을 워드프레스에 통합하여 워드프레스 미디어 라이브러리를 통해 WebAssembly 바이너리를 업로드하고 실행할 수 있도록 합니다. 우리는 C, C++, C#, Python, Go, Rust 등 다양한 언어 지원을 확장하기 위해 노력하고 있습니다. 웹 개발자를 위한 이 강력한 도구 개발에 함께하세요!  
+We aim to integrate WAMR into WordPress, allowing you to upload and execute WebAssembly binaries via the WordPress Media Library.  
+We are also working on extending support for multiple languages like C, C++, C#, Python, Go, and Rust. 
+
+이 깃허브 저장소는 저의 주요 오픈 소스 프로젝트입니다! 
+이 저장소는 BusyBox에서 영감을 받은 워드프레스용 WebAssembly Micro Runtime(WAMR)을 특징으로 합니다.  
+이 프로젝트는 WAMR과 워드프레스의 통합을 주도하는 주요 기여자이자 설계자인 @gnh1201 과 함께 진행되고 있습니다.  
+이 프로젝트는 WAMR을 워드프레스에 통합하여 워드프레스 미디어 라이브러리를 통해 WebAssembly 바이너리를 업로드하고 실행할 수 있도록 합니다.  
+우리는 C, C++, C#, Python, Go, Rust 등 다양한 언어 지원을 확장하기 위해 노력하고 있습니다. 
 
 ### Supported Languages and Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
