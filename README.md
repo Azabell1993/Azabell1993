@@ -1,9 +1,15 @@
-![header](https://capsule-render.vercel.app/api?text=Azabell%Github&fontSize=50)  
-  
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&text=Azabell's%20GitHub&fontAlign=50&fontAlignY=50&fontColor=00ff00&fontSize=45&animation=fadeIn&desc=Wellcome%20My%20Home&descAlignY=75&descAlign=50)
+
 -----   
 ### Hi there 👋 My name is AZABELL!  
 Thank you for visiting.  
 This is Azabell's GitHub.  
+
+![1723463791203](https://github.com/user-attachments/assets/91618344-c4e9-47fb-8b39-71f43ab3ca96)
+
+![1723463790924](https://github.com/user-attachments/assets/5bc83c23-c600-480e-868d-fe89f850ec23)
+
   
 [Azabell NAVER Blog](https://blog.naver.com/azabell)    
 
