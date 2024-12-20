@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&text=Azabell's%20GitHub&fontAlign=50&fontAlignY=50&fontColor=00ff00&fontSize=45&animation=fadeIn&desc=Wellcome%20My%20Home&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&text=Oliver.Park%20GitHub&fontAlign=50&fontAlignY=50&fontColor=00ff00&fontSize=45&animation=fadeIn&desc=Wellcome%20My%20Home&descAlignY=75&descAlign=50)
 ### 📊✨ 사용 언어 비율 (Language Usage Information) ✨  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&layout=compact&theme=tokyonight" alt="Top Langs">
@@ -16,12 +16,12 @@
 </div>
 
 -----   
-### Hi there 👋 My name is AZABELL!  
+### Hi there 👋 My name is Oliver.Park!  
 Thank you for visiting.  
-This is Azabell's GitHub.  
+This is Oliver.Park's GitHub.  
 
 ### This code repository is a collection of advanced design patterns in C language that mimics lambda and advanced styles.  
-### All example sources were created by Azabell1993.  
+### All example sources were created by Oliver.Park.  
 
 **[C Language Advanced Course Repo]**  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=functional_clang)](https://github.com/Azabell1993/functional_clang)   
@@ -30,7 +30,7 @@ This is Azabell's GitHub.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ClangStructPointerExample)](https://github.com/Azabell1993/ClangStructPointerExample)   
     
 ### These are basic source code examples designed to train you to think in an object-oriented manner rather than a procedural manner using the C language.  
-### All example sources were created by Azabell1993.  
+### All example sources were created by Oliver.Park.  
   
 #
 <!--
