@@ -5,11 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
 
-### 🔥✨ GitHub 연속 커밋 (GitHub Streak) ✨  
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azabell1993&theme=tokyonight" alt="GitHub Streak">
-</div>
-
 ### 📈✨ GitHub 활동 통계 (GitHub Stats) ✨  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=radical" alt="GitHub Stats">
