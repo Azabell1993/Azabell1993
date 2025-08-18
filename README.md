@@ -22,9 +22,6 @@
   Linux(Arch, Manjaro), macOS, Windows 환경에서 CMake 기반 크로스 빌드 구성.  
   OS별 빌드/배포 스크립트 설계 및 호환성 이슈 해결 경험.
 
-- **지속적인 학습과 기술 확장**  
-  최신 C++ 표준, Spring Boot 업데이트, Docker/K8s, LLM/AI 엔진 구현 등 새로운 기술 트렌드 학습을 꾸준히 진행.  
-  코드 품질·성능 개선, 팀 협업 환경 최적화에 기여.
 ## 🛠 Tech Stack
 
 ### 💼 업무 기여 히스토리
