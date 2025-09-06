@@ -1,5 +1,142 @@
 # Software Developer
 
+## English
+
+## 🔖 Summary
+
+- **Extensive Experience in Application & System Software Development**  
+  Skilled in designing and implementing solutions across embedded systems, native desktop applications, and server applications.  
+  Strong focus on performance optimization and stability, delivering efficient solutions even in hardware-constrained environments.
+
+- **C/C++ Backend, Engine, and System Programming**  
+  Experienced in Qt GUI, kernel modules, and driver development, with deep understanding of OS internals and hardware control logic.  
+  Proficient in multithreading, memory management, and network programming.
+
+- **Java (Spring Boot) & Python REST API and Automation Tools**  
+  Expertise in microservice architecture, data processing pipelines, and CI/CD automation scripting.  
+  Delivered multiple practical automation projects, including RPA, web crawlers, and API integrations.
+
+- **JavaScript & Frontend-Backend Integration**  
+  Hands-on with Node.js and browser-based interactions, implementing real-time communication via WebSocket/SSE.  
+  Capable of API and backend integration in React/TypeScript environments when needed.
+
+- **Multi-Platform & Multi-OS Development Experience**  
+  Built cross-platform solutions with CMake on Linux (Arch, Manjaro), macOS, and Windows.  
+  Designed OS-specific build/deployment scripts and resolved compatibility issues.
+
+---
+
+## 🛠 Tech Stack
+
+### 💼 Professional Contribution History
+![SI Web Development](https://img.shields.io/badge/SI%20Web%20Development-Enterprise%20Solutions-0A66C2?logo=microsoft-edge&logoColor=white) 
+![C++ Video Processing Engine](https://img.shields.io/badge/C++%20Video%20Processing%20Engine-Real%20Time%20%7C%20Optimized-FF4500?logo=opencv&logoColor=white) 
+![Cloud MSP](https://img.shields.io/badge/Cloud%20MSP-Multi%20Cloud%20%7C%20Service%20Provider-1E90FF?logo=cloud&logoColor=white)
+
+### 🖥 Programming Languages
+![C](https://img.shields.io/badge/C-99-00599C?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+
+### 📚 Frameworks & Libraries
+![Qt](https://img.shields.io/badge/Qt-6-41CD52?logo=qt&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-24-2496ED?logo=docker&logoColor=white)
+
+### 🐧 OS & Deployment Environments
+![Linux](https://img.shields.io/badge/Linux-Kernel-FCC624?logo=linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%2B-E95420?logo=ubuntu&logoColor=white) 
+![Arch](https://img.shields.io/badge/Arch-rolling-1793D1?logo=arch-linux&logoColor=white) 
+![Manjaro](https://img.shields.io/badge/Manjaro-stable-35BF5C?logo=manjaro&logoColor=white)
+
+### 🔍 Areas of Interest
+![Linux BSP](https://img.shields.io/badge/Linux%20BSP-Kernel%20%26%20Driver%20Dev-555555?logo=linux&logoColor=white) 
+![LLM](https://img.shields.io/badge/LLM-Transformer%20%7C%20RAG%20%7C%20LangChain-8A2BE2?logo=openai&logoColor=white)
+
+---
+
+## 💼 Portfolio Projects (Representative)
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **🤖 mini-transformer** | **C++17 from-scratch GPT-style Transformer** · Multi-Head Attention · Causal Mask · Boost.Beast HTTP server support | [![GitHub](https://img.shields.io/badge/Repo-mini__transformer-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/mini-transformer) |
+| **🧠 ml_engine** | C++/LibTorch training engine · Crow-based REST · **early engine reusing llama.cpp / GGUF (CPU-supported)** | [![GitHub](https://img.shields.io/badge/Repo-ml_engine-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/ml-engine) ![Dataset](https://img.shields.io/badge/Dataset-Custom%20PII%20Filtered-blueviolet) ![Model Format](https://img.shields.io/badge/Model-GGUF%20%7C%20ONNX%20%7C%20Torch-orange) ![Inference](https://img.shields.io/badge/Inference-CPU%20%7C%20GPU-green) |
+| **🔬 C_LLM** | Pure C-based toy Transformer LLM engine with **no external inference library dependencies** | [![GitHub](https://img.shields.io/badge/Repo-C__LLM-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/C_LLM) |
+| **🧱 QT_Kernel_OS** | Qt-based CLI OS simulator including virtual memory and process structures | [![GitHub](https://img.shields.io/badge/Repo-QT__Kernel__OS-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/QT_Kernel_OS) · [![Live](https://img.shields.io/badge/Live-Demo-10b981?labelColor=white)](https://azabell1993.github.io/QT_Kernel_OS/files.html) |
+| **🧩 ImSQL** | Lightweight SQL parser & execution engine supporting SELECT/INSERT/JOIN | [![GitHub](https://img.shields.io/badge/Repo-ImSQL-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/ImSQL) · [![Live](https://img.shields.io/badge/Live-Demo-10b981?labelColor=white)](https://azabell1993.github.io/ImSQL/files.html) |
+| **🧷 c_smartpointer** | Reference-counting smart pointer implemented in C | [![GitHub](https://img.shields.io/badge/Repo-c__smartpointer-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/c_smartpointer) |
+
+---
+
+### LOG Sample
+
+<details>
+<summary><b>🔎 ml_engine Execution Log (JSON Response)</b></summary>
+
+```json
+{
+  "engine": "llama",
+  "output": "Write a multithreading example in C++. Reply with code only.\n\n```cpp\n#include <iostream>\n#include <thread>\n#include <mutex>\n\nstd::mutex mtx;\n\nvoid print_thread_id(int id) {\n    mtx.lock();\n    std::cout << \"Thread \" << id << \" is running\\n\";\n    mtx.unlock();\n}\n\nint main() {\n    std::thread threads[10];\n    for (int i = 0; i < 10; ++i) {\n        threads[i] = std::thread(print_thread_id, i);\n    }\n    for (auto &t : threads) { t.join(); }\n    return 0;\n}\n```",
+  "params": {
+    "extra_args": [
+      "-m",
+      "/Users/mac/Desktop/workspace/miniGPT/ml-engine/models/deepseek-coder-v2-lite-instruct-q4_k_m.gguf",
+      "-ngl",
+      "24",
+      "-c",
+      "1024",
+      "-b",
+      "1024",
+      "--simple-io",
+      "-no-cnv",
+      "-n",
+      "128"
+    ],
+    "n_ctx": 1024,
+    "n_threads": 8,
+    "temperature": 0.699999988079071,
+    "top_k": 40,
+    "top_p": 0.949999988079071
+  },
+  "prompt": "Write a multithreading example in C++. Reply with code only."
+}
+```
+</details>
+
+<details>
+<summary><b>🔎 C_LLM Execution Log (Demo)</b></summary>
+[INFO] [2025-08-16 12:30:19] (main:1254) - [LLM] System Information:
+
+[LLM] Model Load: ../models/deepseek-coder-v2-lite-instruct-q4_k_m.gguf
+[LLM] Context created (n_ctx=512, n_threads=4)
+[LLM] Prompt: Summarize the safe arithmetic functionality of this engine in one sentence.
+[LLM Response] [LLM Analysis]
+- Prompt: Summarize the safe arithmetic functionality of this engine in one sentence.
+- Prompt length: 74
+- Output buffer size: 2048
+- Sampling parameters: temperature=0.80, top_k=40, top_p=0.95
+- Model handle: 0x0
+- Model info: [LLM] No model info available
+[Warning] LLM context or model handle is NULL. Inference is not actually running.
+[LLM Response] (Demo) Summarize the safe arithmetic functionality of this engine in one sentence. ...
+
+[LLM] Context released
+[LLM] Model released
+[INFO] [2025-08-16 12:30:19] (main:1281) - [LLM] Query completed
+</details>
+
+🧠 Representative Repositories
+	•	Functional C Patterns – C language examples focused on advanced functional design
+🔗 https://github.com/Azabell1993/functional_clang
+	•	Beginner C Course – C language basics with emphasis on structures and pointers
+🔗 https://github.com/Azabell1993/ClangStructPointerExample
+
+--- 
+
+## 한국어
+
 ## 🔖 Summary
 
 - **응용 및 시스템 소프트웨어 개발 전반에 걸친 폭넓은 경험**  
