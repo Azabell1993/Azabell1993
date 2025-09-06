@@ -1,4 +1,96 @@
-# Software Developer
+# Back-End Software Developer
+
+<!-- Avatar -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/75885992?s=400&u=d6c2ff20bec982e9a4578f00d49256592f0f9d8f&v=4"
+       alt="Azabell Profile" width="140" style="border-radius:50%;"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=900&center=true&vCenter=true&width=750&lines=Cross-Platform+Software+Developer;C%2FC%2B%2B+Systems+Programming+%7C+LLM+Engines+%7C+Backend;Performance+%26+Reliability+focused"
+       alt="typing"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a software developer with practical experience building **low-level system components, AI engines, and backend services**.  
+Most of my public work is focused on **C/C++ systems programming**, **LLM experimentation**, and **cross-platform architecture**.  
+I enjoy solving performance bottlenecks, exploring how operating systems and compilers work under the hood,  
+and designing tools that bridge **classical system software** with **modern AI pipelines**.  
+
+---
+
+## 🔬 Featured Projects
+
+### 🤖 [mini-transformer](https://github.com/Azabell1993/mini-transformer)  
+A from-scratch **C++17 implementation of a GPT-style Transformer**.  
+- Implements **Multi-Head Attention**, **Causal Masking**, and positional encoding.  
+- Includes a lightweight HTTP server using **Boost.Beast** for inference.  
+- Demonstrates how modern LLMs can be built with minimal external dependencies.  
+
+---
+
+### 🧠 [ml-engine](https://github.com/Azabell1993/ml-engine)  
+A **C++/LibTorch training and inference engine**, designed as a foundation for experimenting with local LLMs.  
+- REST API built on **Crow** for serving models.  
+- Early integration with **llama.cpp** and **GGUF** format models.  
+- Supports **CPU and GPU inference** pipelines.  
+- Includes experiments on dataset filtering, PII sanitization, and ONNX/Torch exports.  
+
+---
+
+### 🔬 [C_LLM](https://github.com/Azabell1993/C_LLM)  
+A **pure C-based toy Transformer/LLM engine**.  
+- Written with **no external inference libraries**.  
+- Focused on showing how self-attention, layer normalization, and safe arithmetic can be implemented at the C level.  
+- Useful as an educational tool to understand how large models can be decomposed into minimal building blocks.  
+
+---
+
+### 🧱 [QT_Kernel_OS](https://github.com/Azabell1993/QT_Kernel_OS)  
+A **Qt-based CLI operating system simulator**.  
+- Implements **virtual memory, process management, and CLI-based OS features**.  
+- Demonstrates how operating system concepts can be prototyped using Qt/C++.  
+- [Live Demo](https://azabell1993.github.io/QT_Kernel_OS/files.html) available.  
+
+---
+
+### 🧩 [ImSQL](https://github.com/Azabell1993/ImSQL)  
+A **lightweight SQL parser and execution engine**, built in C++.  
+- Supports basic **SELECT, INSERT, and JOIN** operations.  
+- Designed as a minimal database core for understanding query parsing and execution.  
+- [Live Demo](https://azabell1993.github.io/ImSQL/files.html) available.  
+
+---
+
+### 🧷 [c_smartpointer](https://github.com/Azabell1993/c_smartpointer)  
+A **reference-counting smart pointer implemented in C**.  
+- Mimics C++ smart pointer behavior but designed entirely in C.  
+- Demonstrates **manual memory management and safe pointer handling** in system-level projects.  
+
+---
+
+## ⚙️ Other Work
+
+- **[functional_clang](https://github.com/Azabell1993/functional_clang)**  
+  C language patterns demonstrating functional-style programming concepts.  
+
+- **[ClangStructPointerExample](https://github.com/Azabell1993/ClangStructPointerExample)**  
+  Introductory C examples focusing on **structures and pointers** for beginners.  
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Frameworks & Tools:** Qt, Spring Boot, LibTorch, Docker, Crow, Boost  
+- **Platforms:** Linux (Ubuntu, Arch, Manjaro), macOS, Windows  
+- **Focus Areas:** System Programming, LLM Engines, Cross-Platform Development  
+
+---
 
 ## English
 
