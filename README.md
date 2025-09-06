@@ -139,13 +139,78 @@
 
 ---
 
-## 📊 GitHub Activity
+# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
 
-<div align="center">
+[![Profile views](https://komarev.com/ghpvc/?username=Azabell1993&label=Profile%20views&style=flat)](#)
+![Followers](https://img.shields.io/github/followers/Azabell1993?style=flat)
+![Stars](https://img.shields.io/github/stars/Azabell1993?style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&layout=compact&theme=default)
+Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&theme=default)
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For repositories (pinned)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- 메인 통계 카드 -->
+      <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&rank_icon=github&include_all_commits=true" />
+    </td>
+    <td align="center">
+      <!-- 대표 레포 카드: 필요에 맞게 레포 이름 몇 개만 노출 -->
+      <img alt="mini-transformer" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=mini-transformer" />
+      <br/>
+      <img alt="ml-engine" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ml-engine" />
+    </td>
+  </tr>
 
+  <tr>
+    <th><a>🈷️ Languages activity</a></th>
+    <th><a>🔥 Streak & 📆 Commit calendar</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- 언어 비율(LoC 기반 가중) -->
+      <details open><summary>Top languages (compact)</summary>
+        <img alt="top-langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
+      </details>
+      <details><summary>Top languages (balanced)</summary>
+        <img alt="top-langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azabell1993&langs_count=10" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <!-- 연속 기여 현황 -->
+      <details open><summary>Contribution streak</summary>
+        <img alt="streak" width="400" src="https://streak-stats.demolab.com?user=Azabell1993&date_format=%5BY.%5Dn.j" />
+      </details>
+      <!-- 연간 컨트리뷰션 차트(단일 PNG, 색상 코드 변경 가능) -->
+      <details><summary>Yearly contribution chart</summary>
+        <img alt="ghchart" width="400" src="https://ghchart.rshah.org/219138/Azabell1993" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <th><a>🌟 Recently starred (badge)</a></th>
+    <th><a>👥 Followers / ⭐ Total stars</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- 최근 스타 수(뱃지) -->
+      <img alt="recent-stars" width="200" src="https://img.shields.io/badge/Recently%20Starred-check%20my%20Stars-blue" />
+      <br/>
+      <a href="https://github.com/Azabell1993?tab=stars">View my starred repos</a>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <!-- 실시간 팔로워/스타(전체) -->
+      <img alt="followers" src="https://img.shields.io/github/followers/Azabell1993?style=for-the-badge" />
+      <img alt="total-stars" src="https://img.shields.io/github/stars/Azabell1993?style=for-the-badge" />
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+
+</table>
