@@ -1,11 +1,5 @@
 # Back-End Software Developer
 
-<!-- Avatar -->
-<p align="center">
-  <img width="1024" height="1536" alt="myprofile" src="https://github.com/user-attachments/assets/9f8f4831-cf23-47b1-bd9d-10d617325bdd" alt="Azabell Profile" width="140" style="border-radius:50%;"/>
-</p>
-
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=900&center=true&vCenter=true&width=750&lines=Cross-Platform+Software+Developer;C%2FC%2B%2B+Systems+Programming+%7C+LLM+Engines+%7C+Backend;Performance+%26+Reliability+focused"
