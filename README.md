@@ -2,9 +2,9 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/75885992?s=400&u=d6c2ff20bec982e9a4578f00d49256592f0f9d8f&v=4"
-       alt="Azabell Profile" width="140" style="border-radius:50%;"/>
+  <img width="1024" height="1536" alt="myprofile" src="https://github.com/user-attachments/assets/9f8f4831-cf23-47b1-bd9d-10d617325bdd" alt="Azabell Profile" width="140" style="border-radius:50%;"/>
 </p>
+
 
 <!-- Typing animation -->
 <p align="center">
