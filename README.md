@@ -10,10 +10,34 @@
 
 ## 🧑‍💻 About Me
 
-I am a software developer with practical experience building **low-level system components, AI engines, and backend services**.  
-Most of my public work is focused on **C/C++ systems programming**, **LLM experimentation**, and **cross-platform architecture**.  
-I enjoy solving performance bottlenecks, exploring how operating systems and compilers work under the hood,  
-and designing tools that bridge **classical system software** with **modern AI pipelines**.  
+I am a **versatile backend developer** with practical experience in both **C/C++ system programming** and **Java-based server development**.  
+My work ranges from building **low-level engines and performance-critical components** to delivering **stable and scalable backend services** for enterprise environments.  
+
+I focus on:  
+- **Reliability** – designing backend architectures that remain robust under real-world usage.  
+- **Performance** – applying system-level optimization skills learned from C/C++ to backend services.  
+- **Practicality** – ensuring solutions align with actual business needs and user workflows.  
+
+My experience includes **embedded Linux BSP training** (Vision Edge Device Academy),  
+as well as **cloud MSP projects, public SI systems, and in-house platform development** at MTData.  
+This background allows me to connect **system-level programming discipline** with **modern backend service design**,  
+bringing balanced skills for diverse development contexts.  
+
+---
+
+저는 **C/C++ 시스템 프로그래밍**부터 **Java 기반 서버 개발**까지 경험한 **범용적인 백엔드 개발자**입니다.  
+낮은 수준의 엔진과 성능 중심 컴포넌트 개발에서부터, 기업 환경에서 안정적으로 동작하는 백엔드 서비스 구현까지 폭넓은 영역을 다루어왔습니다.  
+
+제가 개발에서 중요하게 생각하는 가치는 다음과 같습니다:  
+- **신뢰성** – 실제 운영 환경에서도 안정적으로 동작하는 백엔드 구조 설계  
+- **성능 최적화** – C/C++에서 익힌 시스템 레벨 최적화 역량을 서비스 개발에도 접목  
+- **실용성** – 실제 비즈니스 요구와 사용자 흐름에 맞는 솔루션 구현  
+
+경력으로는 **임베디드 리눅스 BSP 교육 (한화 Vision Edge Device Academy)**,  
+**클라우드 MSP 및 공공 SI 프로젝트, 사내 관리 플랫폼 개발 (MTData)** 등을 수행했습니다.  
+
+이 경험을 통해 **시스템 수준의 프로그래밍 역량**과 **현업 백엔드 서비스 설계 능력**을 균형 있게 겸비하게 되었으며,  
+다양한 개발 환경에서 실질적인 가치를 만들어내는 것을 목표로 하고 있습니다.  
 
 ---
 
