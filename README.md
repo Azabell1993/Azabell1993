@@ -2,11 +2,11 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=900&center=true&vCenter=true&width=750&lines=Cross-Platform+Software+Developer;C%2FC%2B%2B+Systems+Programming+%7C+LLM+Engines+%7C+Backend;Performance+%26+Reliability+focused"
-       alt="typing"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=900&center=true&vCenter=true&width=780&lines=Versatile+Backend+Developer+(C%2FC%2B%2B+%26+Java);System-level+performance+to+stable+services;Embedded+Linux+BSP+%C2%B7+LLM+engines+%C2%B7+REST+APIs;Cross-platform+(Linux%2FmacOS%2FWindows)+with+CMake"
+    alt="typing"
+  />
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
