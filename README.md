@@ -148,6 +148,7 @@ A **reference-counting smart pointer implemented in C**.
 | Project | Description | Link |
 |---------|-------------|------|
 | **🤖 mini-transformer** | **C++17 from-scratch GPT-style Transformer** · Multi-Head Attention · Causal Mask · Boost.Beast HTTP server support | [![GitHub](https://img.shields.io/badge/Repo-mini__transformer-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/mini-transformer) |
+| **📖 Transformer_** | **Academic-level exploration of Transformer & LLM architecture** · Self-Attention / FFN / LayerNorm implemented in **C** · llama.cpp optimization analysis · DeepSeek innovations (MLA, MoE, MTP, GRPO) | [![GitHub](https://img.shields.io/badge/Repo-Transformer__-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/Transformer_) |
 | **🧠 ml_engine** | C++/LibTorch training engine · Crow-based REST · **early engine reusing llama.cpp / GGUF (CPU-supported)** | [![GitHub](https://img.shields.io/badge/Repo-ml_engine-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/ml-engine) ![Dataset](https://img.shields.io/badge/Dataset-Custom%20PII%20Filtered-blueviolet) ![Model Format](https://img.shields.io/badge/Model-GGUF%20%7C%20ONNX%20%7C%20Torch-orange) ![Inference](https://img.shields.io/badge/Inference-CPU%20%7C%20GPU-green) |
 | **🔬 C_LLM** | Pure C-based toy Transformer LLM engine with **no external inference library dependencies** | [![GitHub](https://img.shields.io/badge/Repo-C__LLM-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/C_LLM) |
 | **🧱 QT_Kernel_OS** | Qt-based CLI OS simulator including virtual memory and process structures | [![GitHub](https://img.shields.io/badge/Repo-QT__Kernel__OS-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/QT_Kernel_OS) · [![Live](https://img.shields.io/badge/Live-Demo-10b981?labelColor=white)](https://azabell1993.github.io/QT_Kernel_OS/files.html) |
@@ -281,6 +282,7 @@ A **reference-counting smart pointer implemented in C**.
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | **🤖 mini-transformer** | **C++17 from-scratch GPT 계열 Transformer** · Multi-Head Attention · Causal Mask · Boost.Beast HTTP 서버 지원 | [![GitHub](https://img.shields.io/badge/Repo-mini__transformer-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/mini-transformer) |
+| **📚 Transformer_** | **Transformer 및 LLM 아키텍처의 학술적 고찰** · **C 언어**로 Self-Attention / FFN / LayerNorm 구현 · llama.cpp 최적화 분석 · DeepSeek 최신 기술 (MLA, MoE, MTP, GRPO) | [![GitHub](https://img.shields.io/badge/Repo-Transformer__-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/Transformer_) |
 | **🧠 ml_engine** | C++/LibTorch 학습엔진 · Crow 기반 REST · **llama.cpp / GGUF 재사용 초기 엔진 (CPU 지원)** | [![GitHub](https://img.shields.io/badge/Repo-ml_engine-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/ml-engine) ![Dataset](https://img.shields.io/badge/Dataset-Custom%20PII%20Filtered-blueviolet) ![Model Format](https://img.shields.io/badge/Model-GGUF%20%7C%20ONNX%20%7C%20Torch-orange) ![Inference](https://img.shields.io/badge/Inference-CPU%20%7C%20GPU-green) |
 | **🔬 C_LLM** | 외부 추론 라이브러리 의존 없이 **순수 C 기반 자체 LLM 엔진(토이 트랜스포머)** | [![GitHub](https://img.shields.io/badge/Repo-C__LLM-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/C_LLM) |
 | **🧱 QT_Kernel_OS** | Qt 기반 CLI OS 시뮬레이터 · 가상 메모리 · 프로세스 구조 포함 | [![GitHub](https://img.shields.io/badge/Repo-QT__Kernel__OS-3b82f6?logo=github&logoColor=white&labelColor=white)](https://github.com/Azabell1993/QT_Kernel_OS) · [![Live](https://img.shields.io/badge/Live-Demo-10b981?labelColor=white)](https://azabell1993.github.io/QT_Kernel_OS/files.html) |
@@ -371,22 +373,28 @@ A **reference-counting smart pointer implemented in C**.
 Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
 <table>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For repositories (pinned)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- 메인 통계 카드 -->
-      <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&rank_icon=github&include_all_commits=true" />
-    </td>
-    <td align="center">
-      <!-- 대표 레포 카드: 필요에 맞게 레포 이름 몇 개만 노출 -->
-      <img alt="mini-transformer" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=mini-transformer" />
-      <br/>
-      <img alt="ml-engine" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ml-engine" />
-    </td>
-  </tr>
+	<tr>
+	  <th align="center">For user accounts</th>
+	  <th align="center">For repositories (pinned)</th>
+	</tr>
+	<tr>
+	  <td align="center">
+	    <!-- 메인 통계 카드 -->
+	    <img alt="stats" width="400" src="https://github-readme-stats.vercel.app/api?username=Azabell1993&show_icons=true&rank_icon=github&include_all_commits=true" />
+	  </td>
+	  <td align="center">
+	    <!-- 대표 레포 카드 (순서: ml-engine → mini-transformer → Transformer_ → QT_Kernel_OS → ImSQL) -->
+	    <img alt="ml-engine" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ml-engine" />
+	    <br/>
+	    <img alt="mini-transformer" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=mini-transformer" />
+	    <br/>
+	    <img alt="Transformer_" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=Transformer_" />
+	    <br/>
+	    <img alt="QT_Kernel_OS" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=QT_Kernel_OS" />
+	    <br/>
+	    <img alt="ImSQL" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Azabell1993&repo=ImSQL" />
+	  </td>
+	</tr>
 
   <tr>
     <th><a>🈷️ Languages activity</a></th>
