@@ -17,6 +17,12 @@
   </p>
 </div>
 
+<img width="3841" height="2404" alt="mlengine1" src="https://github.com/user-attachments/assets/04cbac27-bd03-490b-a26f-50574d3b34f1" />  
+
+<img width="3841" height="2404" alt="mlengine2" src="https://github.com/user-attachments/assets/2d15fb5c-e3a8-410c-92a6-bc12666f8a44" />  
+
+---  
+
 ## 🧑‍💻 About Me
 
 I am a **versatile backend developer** with practical experience in both **C/C++ system programming** and **Java-based server development**.  
