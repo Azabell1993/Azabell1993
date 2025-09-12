@@ -8,6 +8,15 @@
   />
 </p>
 
+## LLM Router Engine (C++20 · llama.cpp · DeepSeek GGUF)
+<div align="center">
+  <p>
+    <a href="https://www.youtube.com/watch?v=4t7U04pCidk&t=37s">
+      <img src="https://img.youtube.com/vi/4t7U04pCidk/3.jpg" alt="YouTube" width="600">
+    </a>
+  </p>
+</div>
+
 ## 🧑‍💻 About Me
 
 I am a **versatile backend developer** with practical experience in both **C/C++ system programming** and **Java-based server development**.  
