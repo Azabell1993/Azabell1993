@@ -56,10 +56,26 @@ bringing balanced skills for diverse development contexts.
 
 ---
 ## Projects
+# llmrc
+ LLM 기반 리소스/환경 설정 관리 도구 (configuration & runtime control) 실험용 프로젝트입니다.  
+주로 로컬 또는 클라우드 환경에서 LLM 모델의 설정, 로딩, 실행 옵션을 관리하기 위한 간단한 유틸리티 모음입니다.
 
+## 주요 목적
+
+- LLM 모델 설정(configuration) 파일 관리  
+- 런타임 옵션 설정 및 환경 변수 제어  
+- 모델 로딩/실행 시점마다 유연한 설정 적용  
+- 개인 연구 및 테스트 환경 최적화 도구로 사용
+
+## 현재 상태
+
+- 초기 개발 단계  
+- 주요 기능: 설정 구조 설계, 기본 config 파일 템플릿 제공  
+- 향후 기능: 모델 로딩 자동화, 설정 변경 반영, 다양한 포맷 지원 예정
+
+  
 # QT_Kernel_OS
-
-Qt/C++로 만든 간단한 **CLI 기반 운영체제 시뮬레이터**입니다.  
+ Qt/C++로 만든 간단한 **CLI 기반 운영체제 시뮬레이터**입니다.  
 프로세스, 메모리, 파일 시스템 등의 개념을 콘솔 UI로 실험해보기 위한 개인 학습 프로젝트입니다.
 
 ## Features
@@ -71,10 +87,9 @@ Qt/C++로 만든 간단한 **CLI 기반 운영체제 시뮬레이터**입니다.
 ## Demo
 
 - Live Demo: https://azabell1993.github.io/QT_Kernel_OS/files.html
-- 
+  
 # ml-engine
-
-C++과 LibTorch로 만든 **간단한 ML/LLM 추론 엔진 오케스트레이션 프로젝트**입니다.  
+ C++과 LibTorch로 만든 **간단한 ML/LLM 추론 엔진 오케스트레이션 프로젝트**입니다.  
 로컬에서 GGUF/ONNX/Torch 모델을 호출하고, HTTP API 형태로 노출하는 것을 목표로 하였습니다.
 
 ## Features
