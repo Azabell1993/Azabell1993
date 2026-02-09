@@ -1,6 +1,12 @@
 # AI Back-End Developer
 
-안정적인 시스템 위에서 동작하는 AI 런타임과 백엔드 구조를 만드는 개발자입니다.
+안정적인 시스템 위에서 동작하는 AI 런타임과 백엔드 구조를 만들기 위해 노력하는 개발자입니다.  
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=C-G_vvvNuU8&t=24s">
+    <img src="https://img.youtube.com/vi/C-G_vvvNuU8/maxresdefault.jpg" width="600">
+  </a>
+</p>
 
 ---
 
